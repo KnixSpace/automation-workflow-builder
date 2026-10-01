@@ -1,6 +1,6 @@
-# 🧠 Instance
+# 🧠 Workflow Builder
 
-Instance is a powerful **automation workflow builder** that lets you visually create and manage workflows using an intuitive **drag-and-drop interface**. Build complex automation chains with ease, thanks to seamless integration with popular tools like GitHub, Google Workspace, LinkedIn, and Notion.
+**Automation workflow builder** that lets you visually create and manage workflows using an intuitive **drag-and-drop interface**. Build complex automation chains with ease, thanks to seamless integration with popular tools like GitHub, Google Workspace, LinkedIn, and Notion.
 
 ---
 
@@ -56,8 +56,8 @@ Instance is a powerful **automation workflow builder** that lets you visually cr
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/instance.git
-cd instance
+git clone https://github.com/your-username/workflow-builder.git
+cd workflow-builder
 
 # Install dependencies
 npm install
