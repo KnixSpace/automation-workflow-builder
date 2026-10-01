@@ -1,4 +1,4 @@
-# 🧠 Workflow Builder
+# 🧠 Automation Workflow Builder
 
 **Automation workflow builder** that lets you visually create and manage workflows using an intuitive **drag-and-drop interface**. Build complex automation chains with ease, thanks to seamless integration with popular tools like GitHub, Google Workspace, LinkedIn, and Notion.
 
@@ -56,8 +56,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/workflow-builder.git
-cd workflow-builder
+git clone https://github.com/your-username/automation-workflow-builder.git
+cd automation-workflow-builder
 
 # Install dependencies
 npm install
